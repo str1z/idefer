@@ -16,6 +16,10 @@ Defers all instance methods.
 npm i idefer
 ```
 
+```js
+const idefer = require("idefer");
+```
+
 ## Usage
 
 ```js
