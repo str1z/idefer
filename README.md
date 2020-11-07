@@ -20,6 +20,10 @@ npm i idefer
 const idefer = require("idefer");
 ```
 
+### Copy paste
+
+Just copy paste the code!
+
 ## Usage
 
 ```js
