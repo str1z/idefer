@@ -7,7 +7,7 @@ Defers all instance methods.
 ### Browser
 
 ```html
-`<script src="https://cdn.jsdelivr.net/npm/idefer"><script/>`
+<script src="https://cdn.jsdelivr.net/npm/idefer"><script/>
 ```
 
 ### Node.js
