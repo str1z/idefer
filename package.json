@@ -1,0 +1,23 @@
+{
+  "name": "idefer",
+  "version": "1.0.0",
+  "description": "Defers all instance methods.",
+  "main": "idefer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/str1z/idefer.git"
+  },
+  "keywords": [
+    "defer",
+    "idefer"
+  ],
+  "author": "str1z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/str1z/idefer/issues"
+  },
+  "homepage": "https://github.com/str1z/idefer#readme"
+}
