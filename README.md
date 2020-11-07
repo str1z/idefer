@@ -4,11 +4,17 @@ Defers all instance methods.
 
 ## Installation
 
-Browser
-`<script src="https://cdn.jsdelivr.net/npm/idefer/idefer.min.js"><script/>`
+### Browser
 
-Node.js
-`npm i idefer`
+```html
+`<script src="https://cdn.jsdelivr.net/npm/idefer/idefer.min.js"><script/>`
+```
+
+### Node.js
+
+```sh
+npm i idefer
+```
 
 ## Usage
 
