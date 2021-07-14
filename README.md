@@ -35,7 +35,7 @@ io.defer.close();
 // close function is now queued.
 // Works with parameters!
 
-io.wirte("Hello");
+io.write("Hello");
 // do whatever you want here.
 
 // executes all the deferred queued functions.
